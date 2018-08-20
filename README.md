@@ -1,2 +1,2 @@
 # mobtown
-A Wordpress theme for Mobtown Studios
+A WordPress theme for Mobtown Studios
